@@ -9,3 +9,6 @@ def "remote repo initiated
     def "saru git hub changes"
       "Pass"
       
+def "user1 makig change"
+     "Pass"
+def "updated"
